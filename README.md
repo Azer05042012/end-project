@@ -13,6 +13,7 @@
 app = Flask(__name__)
 if __name__ == "__main__":
     app.run(debug=True)
+  короче весь код похожее на мой проект в M3L3
 
 ## Гайды-статьи, где есть полезная для меня информация
 https://www.un.org/ru/un75/climate-crisis-race-we-can-win
